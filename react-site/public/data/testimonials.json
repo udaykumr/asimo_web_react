@@ -1,0 +1,32 @@
+[
+    {
+        "quote": "ASIMO Technical Club has been the cornerstone of technical excellence at GEC Samastipur, providing students with hands-on experience in cutting-edge technologies and fostering innovation.",
+        "name": "Engineering Excellence",
+        "designation": "Premier Technical Club",
+        "src": "./assets/images/members/2022/aprajita.jpg"
+    },
+    {
+        "quote": "Through workshops, seminars, and technical events, ASIMO bridges the gap between theoretical knowledge and practical application, preparing students for real-world engineering challenges.",
+        "name": "Innovation & Learning",
+        "designation": "Skill Development",
+        "src": "./assets/images/members/2022/ashutosh.jpg"
+    },
+    {
+        "quote": "As the flagship technical organization at Government Engineering College Samastipur, ASIMO represents our commitment to multidisciplinary technical education and engineering advancement.",
+        "name": "Technical Leadership",
+        "designation": "GEC Samastipur",
+        "src": "./assets/images/members/2022/bandhan.jpg"
+    },
+    {
+        "quote": "ASIMO stands for 'Advance Step in MultiTech Orientation,' embodying our mission to create future-ready engineers who excel in multiple technological domains.",
+        "name": "Future Engineers",
+        "designation": "Multidisciplinary Excellence",
+        "src": "./assets/images/members/2022/rishabh.jpg"
+    },
+    {
+        "quote": "Leading the way in robotics, AI, and emerging technologies, ASIMO empowers students to transform ideas into reality through collaborative projects and continuous learning.",
+        "name": "Tech Innovation",
+        "designation": "Future Ready",
+        "src": "./assets/images/members/2022/rishi.jpg"
+    }
+]
